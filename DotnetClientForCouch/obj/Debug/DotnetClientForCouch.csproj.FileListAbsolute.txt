@@ -1,0 +1,9 @@
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\bin\Debug\DotnetClientForCouch.exe.config
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\bin\Debug\DotnetClientForCouch.exe
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\bin\Debug\DotnetClientForCouch.pdb
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\bin\Debug\Couchbase.dll
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\bin\Debug\Enyim.Caching.dll
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\bin\Debug\Newtonsoft.Json.dll
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\obj\Debug\DotnetClientForCouch.csprojResolveAssemblyReference.cache
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\obj\Debug\DotnetClientForCouch.exe
+c:\users\yf03\documents\visual studio 2012\Projects\DotnetClientForCouch\DotnetClientForCouch\obj\Debug\DotnetClientForCouch.pdb
